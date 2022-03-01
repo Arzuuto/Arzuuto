@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnaud Ho Chouck Foune</h1>
 <h3 align="center">A passionate developer from EPITECH and I love it !!</h3>
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **arnaud-ho@live.fr**
 
